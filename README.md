@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscodekiddie&label=Profile%20views&color=0e75b6&style=flat" alt="jscodekiddie" /> </p> -->
 
-- 🌱 I’m currently learning **-> JavaScript**
+- 🌱 I’m currently learning **-> JavaScript, HTML, CSS**
 
 - 💬 Ask me about **-> music, series, politics**
 
